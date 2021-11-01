@@ -1,7 +1,7 @@
 {
   "name": "nodebot",
   "version": "1.0.0",
-  "description": "Node es un bot multifunción, multilenguaje, programado en Discord.js y Mongoose por LyricalString.",
+  "description": "Aguacate es un bot multifunción, multilenguaje programado por bro...",
   "main": "index.js",
   "dependencies": {
     "@discordjs/voice": "^0.5.6",
